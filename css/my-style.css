@@ -1,0 +1,126 @@
+body {
+  background-color: rgba(189, 99, 71);
+  margin: 0;
+  background-image: url(../image/ubisoft_new_2017_logo_2400.0.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  border-style: solid dashed dotted dashed;
+  border-color: green;
+  border-width: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 40px 20px 40px 20px;
+  font-size: 20px;
+}
+table,
+tr,
+td,
+th {
+  color: blue;
+  margin-left: 500px;
+  border: black;
+  border-spacing: 15px;
+  border-style: double;
+  border-width: 10px;
+}
+p {
+  color: aqua;
+  letter-spacing: 4px;
+  word-spacing: 7px;
+  line-height: 50px;
+  text-align: left;
+  vertical-align: 10px;
+  text-transform: capitalize;
+  text-indent: 40px;
+  text-decoration: none;
+}
+
+#bbb {
+  color: blue;
+  background-color: aqua;
+}
+div {
+  margin: 1px;
+  border: 2px;
+  border-width: 3px;
+  padding: 50px;
+  font-family: Cairo, sans-serif;
+  font-size: 30px;
+}
+h1 {
+  font-size: 60px;
+  margin-left: 480px;
+}
+#secondry {
+  font-size: 40px;
+  margin-left: 500px;
+}
+article {
+  max-width: 300px;
+  max-height: 300px;
+  min-width: 25px;
+  min-height: 25px;
+}
+div p {
+  color: yellow;
+  font-family: "Gloria Hallelujah", cursive;
+  color: rgb(17, 192, 55);
+  font-weight: bolder;
+  font-size: 36px;
+  font-style: oblique;
+}
+.Liam {
+  font: italic normal 10px/45px Cairo, sans-serif;
+  margin: 250px;
+  text-indent: 0px;
+}
+a:link {
+  text-decoration: none;
+  text-align: left;
+  padding: 10px 20px;
+}
+a:hover {
+  border: 10px;
+  box-shadow: 5px 5px 5px 5px rgb(107, 88, 88);
+}
+img:hover {
+  width: 380px;
+  height: 380px;
+  border: 1px;
+  box-shadow: 5px 5px 5px 5px rgb(107, 88, 88);
+}
+img {
+  position: relative;
+  top: 30px;
+  left: 492px;
+}
+#NANA {
+  position: relative;
+  top: -200px;
+  left: 400px;
+}
+ul {
+  list-style-type: none;
+  list-style: square inside url("../image/tumblr_inline_mmzqp25bKX1qz4rgp.gif");
+}
+nav ul {
+  list-style-type: none;
+}
+nav ul li {
+  display: inline-block;
+}
+nav li a {
+  text-decoration: none;
+  color: white;
+  background-color: transparent;
+  padding: 8px 12px;
+}
+tr:nth-child(even) {
+  color: blue;
+  background-color: bisque;
+}
+tr {
+  background-color: blueviolet;
+  color: whitesmoke;
+}

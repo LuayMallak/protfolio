@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  background-image: url(../image/bg_001.jpg);
+  background-size: cover;
+}
+nav ul {
+  list-style-type: none;
+}
+nav ul li {
+  display: inline-block;
+  padding: 15px;
+}
+nav li a {
+  text-decoration: none;
+  color: white;
+  position: relative;
+  right: 400px;
+  top: 30px;
+}
+div {
+  float: right;
+}
+div img {
+  width: 300px;
+  height: 600px;
+  position: relative;
+  top: 100px;
+  right: 150px;
+}
+.black {
+  top: 120px;
+  right: 600px;
+}
+.left-div {
+  float: left;
+  height: 700px;
+}
+#logo {
+  width: 300px;
+  height: 100px;
+  left: 410px;
+  top: 25px;
+}
+h1 {
+  color: white;
+  width: 480px;
+  position: relative;
+  top: 140px;
+  left: 410px;
+  font-size: 47px;
+}
+p {
+  color: white;
+  font-size: 24px;
+  position: relative;
+  top: 150px;
+  width: 480px;
+  left: 410px;
+}
+#learnmore {
+  position: relative;
+  float: left;
+  top: 200px;
+  left: 410px;
+  padding: 20px;
+  width: 200px;
+  background-color: rgb(104, 194, 104);
+  margin-left: 0px;
+  color: white;
+  font-size: 16px;
+  border: none;
+}
+#gettheapp {
+  position: relative;
+  float: right;
+  margin-right: 60px;
+  top: 200px;
+  left: 410px;
+  padding: 20px;
+  width: 200px;
+  background-color: #4dbdff;
+  color: white;
+  font-size: 16px;
+  border: none;
+}
+input {
+  border-radius: 4px;
+}
+#learnmore:hover {
+  box-shadow: 0 8px 16px 0 gray;
+}
+#gettheapp:hover {
+  box-shadow: 0 8px 16px 0 gray;
+}
