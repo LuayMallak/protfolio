@@ -1,0 +1,11 @@
+// This is where you can import other stylesheets or write your scss code
+@import "abstracts/variables";
+@import "abstracts/mixins";
+// @import "../../node_modules/bootstrap/scss/bootstrap";
+@import "layout/header";
+@import "layout/homepage";
+@import "layout/previouswork";
+@import "layout/aboutme";
+@import "layout/contactme";
+
+@import "layout/mediaqueries";

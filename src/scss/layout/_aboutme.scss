@@ -1,0 +1,24 @@
+main {
+    
+    .about-me {
+        margin: 10rem auto 0rem auto;
+        max-width: 50%;
+        color: $fontcolor;
+        font-size: 1.9rem;
+        font-family: 'Playfair Display', serif;
+        text-align: center;
+
+        h1 {
+            margin: 1rem;
+        }
+
+        h4 {
+            margin: 1rem;
+        }
+
+        p {
+            font-weight: 700;
+            margin-top: 1.5rem;
+        }        
+    }
+}
